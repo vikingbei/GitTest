@@ -2,3 +2,5 @@ file 1
 
 
 asdf
+
+new line
