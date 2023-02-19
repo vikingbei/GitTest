@@ -7,4 +7,3 @@ new line
 newline from UAT branch
 hello from feature
 
-19feb2003, trying git revert!
